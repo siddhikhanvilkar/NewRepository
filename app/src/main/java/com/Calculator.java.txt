@@ -1,0 +1,6 @@
+package com;
+public class Calculator{
+	pubic int add(int a, int b){
+	return a+b;
+	}
+}
